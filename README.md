@@ -6,7 +6,7 @@
   <p align="center">
     Remove background from images using pre-trained ML models.
     <br />
-    <a href="https://bgremover.streamlit.app/" target="_blank"><strong>View Demo »</strong></a>
+    <a href="https://ranasheharyarp3.streamlit.app/" target="_blank"><strong>View Demo »</strong></a>
     <br />
   </p>
 </div>
@@ -29,7 +29,7 @@ It does well for most images that doesn't have messy background but I'm sure you
 
 ### Built With
 - Python
-- <a href="https://github.com/danielgatis/rembg" target="_blank">Rembg</a>
+- <a href="https://github.com/ranasheharyar" target="_blank">Rembg</a>
 - <a href="https://streamlit.io/" target="_blank">Streamlit</a> 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -68,6 +68,6 @@ To get a local copy up and running follow these simple steps.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-For more information see: [Alyetama](https://github.com/Alyetama/Rembg-Online)
+For more information see: [Alyetama](https://github.com/ranasheharyar)
 
 Thanks!
