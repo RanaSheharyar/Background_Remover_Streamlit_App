@@ -46,7 +46,7 @@ def build_ui():
     )
     footer = """
     <div style="position: fixed; bottom: 0;">
-    <p>Developed with ❤ by <a href="https://github.com/balewgize" target="_blank">@balewgize</a></p>
+    <p>Developed with ❤ by <a href="https://github.com/ranasheharyar" target="_blank">@ranasheharyar</a></p>
     </div>"""
     st.sidebar.markdown(footer, unsafe_allow_html=True)
 
