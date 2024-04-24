@@ -18,7 +18,7 @@
 
 A web app built with ```Python``` and ```Streamlit``` that enables users to remove background from images using pre-trained ML models.
 
-It does well for most images that doesn't have messy background but I'm sure you won't expect photoshop like results :) 
+It does well for most images that don't have messy backgrounds but I'm sure you won't expect Photoshop like results :) 
 
 ### Features
 - Downloadable final result
