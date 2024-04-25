@@ -4,7 +4,7 @@
   <h3 align="center">Background remover</h3>
 
   <p align="center">
-    Remove background from images using pre-trained ML models.
+    Remove background from an images using pre-trained ML models.
     <br />
     <a href="https://ranasheharyarp3.streamlit.app/" target="_blank"><strong>View Demo »</strong></a>
     <br />
