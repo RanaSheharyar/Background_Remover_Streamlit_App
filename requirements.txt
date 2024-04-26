@@ -1,2 +1,4 @@
+python==3.11
 rembg==2.0.30
 streamlit==1.20.0
+
